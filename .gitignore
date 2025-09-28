@@ -1,0 +1,8 @@
+# Python environment
+.venv/
+# Node.js environment/dependencies
+node_modules/
+# macOS files (if applicable)
+.DS_Store
+# Common build/config files not needed in the repo
+npm-debug.log*
